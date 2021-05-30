@@ -1,5 +1,8 @@
 ### Hi there, I'm <strong>Parag</strong> 👋️
 
+![](https://komarev.com/ghpvc/?username=parag56&color=blue&label=PROFILE+VIEWS)
+
+<br/>
 
 ## I'm a student,<br/>Developer!
 -👨‍💻️👨‍💻️I'm Currently learning Devops <br/>
