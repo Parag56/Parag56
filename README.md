@@ -25,6 +25,7 @@
 <img align="left"   margin="2px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}"/>
 <img align="left"   src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <br/>
+
 [![Parag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parag56)](https://github.com/parag56/github-readme-stats)
 
 <br/>
