@@ -13,7 +13,7 @@
 ## Connect with me:
 [<img align="left" alt="Linked in Profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/parag-thakur-47a8bb190)
 [<img align="left" alt="Instagram Profile"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/paragthakur56/)
-
+<br/>
 ## Languages and tools:
 <img align="left"   src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left"   src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
