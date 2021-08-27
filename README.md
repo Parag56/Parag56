@@ -33,6 +33,7 @@
 <br/>
 
 
-[![Parag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parag56&show_icons=true&theme=radical&align=left )](https://github.com/parag56/github-readme-stats)
+[![Parag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parag56&show_icons=true&theme=tokyonight&align=left )](https://github.com/parag56/github-readme-stats)
+[![Parag's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=parag56)](https://github.com/parag56/github-readme-stats)
 
 <br/>
