@@ -38,6 +38,5 @@
 
 </br>
 
-[![Parag's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=parag56)](https://github.com/parag56/github-readme-stats)
 
 <br/>
