@@ -4,7 +4,7 @@
 
 <br/>
 
--📧️How to reach me:paragthakur56@gmail.com <br/>
+-📧️How to reach me: paragthakur56@gmail.com <br/>
 <br/>
 <br/>
 
