@@ -4,11 +4,7 @@
 
 <br/>
 
-## I'm a student,<br/>Developer!
--👨‍💻️👨‍💻️I'm Currently learning Devops <br/>
--😋️I love watching animes <br/>
 -📧️How to reach me:paragthakur56@gmail.com <br/>
--I'm a MERN stack developer <br/>
 <br/>
 <br/>
 
